@@ -8,4 +8,4 @@
 
 # 0.6 SPA New Note:
 
-wip
+![0.6_spaNewNote](./diagrams/0.6_spaNewNote.png)
