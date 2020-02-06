@@ -12,9 +12,9 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
 
 ### Part 1 Introduction to React:
 
-- [ ] Intro to React
-  - [ ] 1.1
-  - [ ] 1.2
+- [x] Intro to React | [courseinfo repo](./part1/courseinfo)
+  - [x] 1.1
+  - [x] 1.2
 - [ ] Javascript
   - [ ] 1.3
   - [ ] 1.4
