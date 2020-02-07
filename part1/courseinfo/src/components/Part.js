@@ -1,7 +1,8 @@
 import React from 'react';
 
-const Part = ({course}) => {
-  return <p> {course.part} {course.exercises} </p>;
+const Part = ({part}) => {
+  const { name, exercises } = part;
+  return <p> {name} {exercises} </p>;
 }
  
  export default Part;

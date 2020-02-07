@@ -15,10 +15,10 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
 - [x] Intro to React | [courseinfo repo](./part1/courseinfo)
   - [x] 1.1
   - [x] 1.2
-- [ ] Javascript
-  - [ ] 1.3
-  - [ ] 1.4
-  - [ ] 1.5
+- [x] Javascript | [courseinfo repo](./part1/courseinfo)
+  - [x] 1.3
+  - [x] 1.4
+  - [x] 1.5
 - [ ] Component state, event handlers
   - [ ] 1.6
   - [ ] 1.7
