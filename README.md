@@ -1,4 +1,4 @@
-# Fullstack Open 2019
+# Fullstack Open 2020
 Repository of exercises from the [Full Stack Open course](https://fullstackopen.com/en/) offered through the University of Helsinki.
 
 ## Completion Status
