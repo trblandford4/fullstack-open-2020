@@ -1,4 +1,5 @@
 # Fullstack Open 2020
+
 Repository of exercises from the [Full Stack Open course](https://fullstackopen.com/en/) offered through the University of Helsinki.
 
 ## Completion Status
@@ -19,16 +20,16 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
   - [x] 1.3
   - [x] 1.4
   - [x] 1.5
-- [ ] Component state, event handlers
-  - [ ] 1.6
-  - [ ] 1.7
-  - [ ] 1.8
-  - [ ] 1.9
-  - [ ] 1.10
-  - [ ] 1.11
-  - [ ] 1.12
-  - [ ] 1.13
-  - [ ] 1.14
+- [x] Component state, event handlers
+  - [x] 1.6 | [unicafe repo](./part1/unicafe)
+  - [x] 1.7
+  - [x] 1.8
+  - [x] 1.9
+  - [x] 1.10
+  - [x] 1.11
+  - [x] 1.12 | [anecdotes repo](./part1/anecdotes)
+  - [x] 1.13
+  - [x] 1.14
 
 ### Part 2 Communicating with server
 

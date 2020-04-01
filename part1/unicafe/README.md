@@ -2,4 +2,4 @@ Repository for solution to [Part 1 Intro to React Exercises](https://fullstackop
 
 ### Resulting UI:
 
-![1.1_screenshot](../assets/courseinfo.png)
+![1.1_screenshot](../assets/unicafe.png)
